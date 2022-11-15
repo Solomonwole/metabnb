@@ -602,6 +602,9 @@ body.active-modal {
     row-gap: 16px;
     grid-template-columns: 1fr;
   }
+  .mobile--category--menu .menu ul li {
+    font-size: 80%;
+  }
 }
 @media screen and (max-width: 468px) {
   .hero {

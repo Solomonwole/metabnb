@@ -28,10 +28,13 @@ const Navbar = () => {
     <>
       <div className="container">
         <div className="header">
+          
           <div className="logo">
+          <Link to='/'>
             <img src={Logo} alt="Logo" />
-            <img src={LogoText} alt="Logo" />
+            <img src={LogoText} alt="Logo" /></Link>
           </div>
+          
 
           <div className="desktop--menu">
             <div className="menu">
