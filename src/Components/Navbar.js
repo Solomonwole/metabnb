@@ -115,7 +115,7 @@ const Navbar = () => {
                     </li>
                     <li onClick={toggleModal}>
                       <Typography>
-                        <Link to="/" className="btn--connect">
+                        <Link className="btn--connect">
                           Connect wallet
                         </Link>
                       </Typography>
