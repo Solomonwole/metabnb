@@ -448,9 +448,6 @@ body.active-modal {
   }
 }
 @media screen and (max-width: 894px) {
-  body.active-modal {
-    overflow-y: hidden;
-  }
   .header .desktop--menu {
     display: none;
   }
