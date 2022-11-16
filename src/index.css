@@ -16,7 +16,6 @@ body {
 
 body.active-modal {
   overflow-y: hidden;
-  -webkit-overflow-y: hiden;
 }
 
 .container {
